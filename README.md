@@ -2,6 +2,9 @@
 <h3 align="center">Software Developer | Spring Framework Enthusiast</h3>
 
 <p align="center">
+  <a href="https://abhijit-kolhe.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+  </a>
   <a href="https://www.linkedin.com/in/abhijit-kolhe-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -22,6 +25,7 @@
 - 🎓 Pursuing a **Master of Science in Computer Science** at K. K. Wagh College (2024 - 2026).
 - 💡 Passionate about creating seamless, user-centric web applications and contributing to the full software development lifecycle.
 - 🚀 Focused on backend development with **Java** and the **Spring Framework**, paired with responsive frontend design.
+- 🌐 Check out my **[Portfolio Website](https://abhijit-kolhe.github.io/)** to see my work in action.
 - 📫 How to reach me: **kolheabhijit317@gmail.com**
 - 📄 Check out my [**Resume**](ABHIJIT_KOLHE_Resume_SD.pdf) for more details about my experience.
 
