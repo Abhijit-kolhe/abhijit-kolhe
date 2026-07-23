@@ -11,6 +11,9 @@
   <a href="mailto:kolheabhijit317@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="ABHIJIT_KOLHE_Resume_SD.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
+  </a>
 </p>
 
 <hr>
@@ -20,6 +23,7 @@
 - 💡 Passionate about creating seamless, user-centric web applications and contributing to the full software development lifecycle.
 - 🚀 Focused on backend development with **Java** and the **Spring Framework**, paired with responsive frontend design.
 - 📫 How to reach me: **kolheabhijit317@gmail.com**
+- 📄 Check out my [**Resume**](ABHIJIT_KOLHE_Resume_SD.pdf) for more details about my experience.
 
 ### 🛠️ Tech Stack & Tools
 
@@ -52,11 +56,3 @@
 - **Session Management:** Engineered distributed session tracking using **Spring Security and Redis** to strictly enforce single-device logins.
 - **AI-Driven Proctoring:** Integrated machine learning models via **JavaScript, TensorFlow.js, and MediaPipe** for real-time facial recognition and object detection.
 - **Security:** Built browser lockdown protocols that detect full-screen exits and trigger automated webcam/screen captures.
-
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijit-kolhe&show_icons=true&theme=tokyonight&hide_border=true" alt="Abhijit's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijit-kolhe&theme=tokyonight&hide_border=true" alt="Abhijit's GitHub Streak" />
-</p>
