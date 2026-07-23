@@ -14,7 +14,7 @@
   <a href="mailto:kolheabhijit317@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="ABHIJIT_KOLHE_Resume_SD.pdf" target="_blank">
+  <a href="https://abhijit-kolhe.github.io/ABHIJIT_KOLHE_Resume_SD.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
   </a>
 </p>
@@ -27,7 +27,7 @@
 - 🚀 Focused on backend development with **Java** and the **Spring Framework**, paired with responsive frontend design.
 - 🌐 Check out my **[Portfolio Website](https://abhijit-kolhe.github.io/)** to see my work in action.
 - 📫 How to reach me: **kolheabhijit317@gmail.com**
-- 📄 Check out my [**Resume**](ABHIJIT_KOLHE_Resume_SD.pdf) for more details about my experience.
+- 📄 Check out my [**Resume**](https://abhijit-kolhe.github.io/ABHIJIT_KOLHE_Resume_SD.pdf) for more details about my experience.
 
 ### 🛠️ Tech Stack & Tools
 
