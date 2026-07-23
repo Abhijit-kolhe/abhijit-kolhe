@@ -54,8 +54,8 @@
 
 ---
 
-### 🚀 Featured Project: ProctoSphere
-**Anti-Cheat Online Examination Platform**
+### 🚀 Featured Project: [ProctoSphere](https://proctosphere.in/)
+**Anti-Cheat Online Examination Platform** 🔗 [Live Website](https://proctosphere.in/)
 - **Backend Architecture:** Developed a robust backend utilizing **Java, Spring MVC, and Spring JDBC** for exam deployments and live user tracking on a dedicated servlet container.
 - **Session Management:** Engineered distributed session tracking using **Spring Security and Redis** to strictly enforce single-device logins.
 - **AI-Driven Proctoring:** Integrated machine learning models via **JavaScript, TensorFlow.js, and MediaPipe** for real-time facial recognition and object detection.
