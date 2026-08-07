@@ -22,7 +22,7 @@
 <hr>
 
 ### 👨‍💻 About Me
-- 🎓 Pursuing a **Master of Science in Computer Science** at K. K. Wagh College (2024 - 2026).
+- 🎓 Completed a **Master of Science in Computer Science** at K. K. Wagh College (2024 - 2026).
 - 💡 Passionate about creating seamless, user-centric web applications and contributing to the full software development lifecycle.
 - 🚀 Focused on backend development with **Java** and the **Spring Framework**, paired with responsive frontend design.
 - 🌐 Check out my **[Portfolio Website](https://abhijit-kolhe.github.io/)** to see my work in action.
