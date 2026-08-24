@@ -57,7 +57,7 @@
 ## 🚀 Featured Project: ProctoSphere
 ### AI-Powered Anti-Cheat Online Examination Platform
 
-🔗 **Live Demo:** https://proctosphere.in
+🔗 **Live Demo:** https://www.proctosphere.in
 
 ProctoSphere is a **multi-tenant SaaS online examination platform** designed to deliver secure, scalable, and AI-assisted remote assessments. It provides enterprise-grade exam management, live proctoring, automated evaluation, and advanced anti-cheat mechanisms for educational institutions.
 
